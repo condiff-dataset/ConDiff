@@ -131,3 +131,16 @@ These notebooks demonstrate the use of the same models to solve the 2D diffusion
   * [SNO for Diffusion 2D](https://github.com/condiff-dataset/ConDiff/blob/main/notebooks/SNO%20for%20Diffusion%202D.ipynb)
   * [UNet for Diffusion 2D](https://github.com/condiff-dataset/ConDiff/blob/main/notebooks/UNet%20for%20Diffusion%202D.ipynb)
   * [DilResNet for Diffusion 2D](https://github.com/condiff-dataset/ConDiff/blob/main/notebooks/DilResNet%20for%20Diffusion%202D.ipynb)
+
+## Citing
+
+If you use the ConDiff dataset and/or find or code useful in your research, please cite ([arXiv link](https://arxiv.org/abs/2406.04709)):
+
+```bibtex
+@article{trifonov2024condiff,
+  title={ConDiff: A Challenging Dataset for Neural Solvers of Partial Differential Equations},
+  author={Trifonov, Vladislav and Rudikov, Alexander and Iliev, Oleg and Oseledets, Ivan and Muravleva, Ekaterina},
+  journal={arXiv preprint arXiv:2406.04709},
+  year={2024}
+}
+```
